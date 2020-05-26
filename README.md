@@ -44,13 +44,14 @@ commit
 
 ## M030 | ARRAYS & CONTROLS
 
-- [ ] [Arrays](/M3ArrayNControls/MyArray.cs)
-- [ ] [if](/M3ArrayNControls/MyIf.cs)
-- [ ] for, siehe Arrays
-- [ ] while & do while, siehe Zahlenratespiel
-- [ ] [switch](/M3ArrayNControls/MySwitch.cs)
-- [ ] [Klasse Random](/M3ArrayNControls/MyRandom.cs)
-- [ ] [M3Zahlenratespiel](/M3Zahlenratespiel/M3Zahlenraten.cs)
+- [x] [Arrays](M03ArrayNControls/MyArray.cs)
+- [x] [if](M03ArrayNControls/MyIf.cs)
+- [x] for, siehe Arrays
+- [x] while & do while, siehe Zahlenratespiel
+- [x] [Klasse Random](M03ArrayNControls/MyRandom.cs)
+- [x] [Lab Zahlenratespiel](M03Lab-Zahlenratespiel/Zahlenraten.cs)
+
+commit
 
 ## M040 | METHODS
 
