@@ -1,6 +1,6 @@
 ﻿# CSharp-Grundkurs-Ppedv-260520
 
-# ABLAUF VOM KURS
+# ABLAUF VOM KURS, von Vadzim
 
 ## M000 | WARMING UP
 
