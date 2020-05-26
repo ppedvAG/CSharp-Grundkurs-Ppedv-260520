@@ -67,18 +67,17 @@ commit
 
 ## M050 | CLASSES & OOP
 
-- [ ] constructor
-- [ ] fields
-- [ ] props
-- [ ] class methods
-- [ ] access modifier
-- [ ] inctances / objects
-- [ ] destructor
-- [ ] [public Class](/M5Classes/Detail.cs) <!-- der bessere Name: MyClassWFields -->
-- [ ] [private Class](/M5Classes/Umrechnung.cs)
-- [ ] [Classes Consumer](/M5ClassesConsumer/M5ClassesConsumer.cs)
-- [ ] [Ü Transport](/M5Fuhrpark/Transport.cs)
-- [ ] [Ü TransportConsumer](/M5Fuhrpark/FuhrparkApp.cs)
+- [x] constructor
+- [x] fields
+- [x] props
+- [x] class methods
+- [x] access modifier
+- [x] inctances / objects
+- [x] destructor
+- [x] [Ü Transport](/M5Fuhrpark/Transport.cs)
+- [x] [Ü TransportConsumer](/M5Fuhrpark/FuhrparkApp.cs)
+
+commit
 
 ## M060 | INHERITENCE / VERERBUNG
 
