@@ -55,13 +55,15 @@ commit
 
 ## M040 | METHODS
 
-- [ ] arguments
-- [ ] parameters
-- [ ] params
-- [ ] return
-- [ ] overloads
-- [ ] out & ref parameters & args
-- [ ] [Demo Methods](/M4Methods/M4Methods.cs)
+- [x] arguments
+- [x] parameters
+- [x] params
+- [x] return
+- [x] overloads
+- [x] out & ref parameters & args
+- [x] [Demo Methods](M04Demo-Methods/DMethods.cs)
+
+commit
 
 ## M050 | CLASSES & OOP
 
