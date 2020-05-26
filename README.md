@@ -16,11 +16,11 @@ Tools > Options > Text Editor > All Languages > General > Line numbers
 
 ## M010 | GETTING STARTED
 
-- [ ] Intro [csharp docs](https://docs.microsoft.com/de-de/dotnet/csharp/)
-- [ ] .NET [dotnet docs](https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8)
-- [ ] [M1HelloWorld](../CS-GK-VC-V/M1HelloWorld/HelloWorld.cs)
-- [ ] [DConsole](../CS-GK-VC-V/M1Demo-Console/DConsole.cs)
-- [ ] [SPICKER](CSHARP-CHEATSHEET.md)
+- [x] Intro [csharp docs](https://docs.microsoft.com/de-de/dotnet/csharp/)
+- [x] .NET [dotnet docs](https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8)
+- [x] [HelloWorld.cs](M01HelloWorld/HelloWorld.cs)
+- [x] [DConsole.cs](M01Demo-Console/DConsole.cs)
+- [x] [SPICKER](CSHARP-CHEATSHEET.md)
 
 sln props > startup projects > current
 
