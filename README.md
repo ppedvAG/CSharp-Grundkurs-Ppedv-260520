@@ -4,11 +4,11 @@
 
 ## M000 | WARMING UP
 
-- [ ] Greeter
-- [ ] VS [homepage](https://visualstudio.microsoft.com/de/)
-- [ ] [vs-shortcuts](VS-SHORTCUTS.md)
-- [ ] Git
-- [ ] [git-commands](GIT-COMMANDS.md)
+- [x] Greeter
+- [x] VS [homepage](https://visualstudio.microsoft.com/de/)
+- [x] [vs-shortcuts](VS-SHORTCUTS.md)
+- [x] Git
+- [x] [git-commands](GIT-COMMANDS.md)
 
 VS Installer > installierte Version ändern > Sprachpakete
 
