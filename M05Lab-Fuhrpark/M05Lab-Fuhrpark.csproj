@@ -42,7 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Fahrrad.cs" />
     <Compile Include="Flugzeug.cs" />
+    <Compile Include="IKannAndereTransportieren.cs" />
+    <Compile Include="IRollbar.cs" />
     <Compile Include="PKW.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Schiff.cs" />

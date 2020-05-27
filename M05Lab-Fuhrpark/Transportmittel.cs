@@ -15,7 +15,7 @@ namespace M05Lab_Fuhrpark
         public string Name { get; set; }
         public int MaximalGeschwindigkeit { get; }
         public double Preis { get; set; }
-        public int AktuelleGeschwindigkeit { get; private set; }
+        public int AktuelleGeschwindigkeit { get; set; }
         public Zustand FZustand { get; private set; }
         
         // ctor
@@ -40,6 +40,7 @@ namespace M05Lab_Fuhrpark
             {
                 AktuelleGeschwindigkeit = MaximalGeschwindigkeit;
             }
+            Console.WriteLine("Beschleunigen von Transportmittel");
             return AktuelleGeschwindigkeit;
         }
         public void StarteMotor()

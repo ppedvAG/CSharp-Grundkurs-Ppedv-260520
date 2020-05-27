@@ -92,10 +92,12 @@ commit
 
 ## M070 | INTERFACES & POLYMORPHISM
 
-- [ ] interfaces
-- [ ] override vs overload
-- [ ] [Ü IKannAndereTransportieren](/M5Fuhrpark/IKannAndereTransportieren.cs)
-- [ ] [Ü IKannRollen](/M5Fuhrpark/IKannRollen.cs)
+- [x] interfaces
+- [x] override vs overload
+- [x] [Ü IKannAndereTransportieren](M05Lab-Fuhrpark/IKannAndereTransportieren.cs)
+- [x] [Ü IKannRollen](M05Lab-Fuhrpark/IRollbar.cs)
+
+commit
 
 ## M080 | GENERIC DATA STRUCTURES
 
