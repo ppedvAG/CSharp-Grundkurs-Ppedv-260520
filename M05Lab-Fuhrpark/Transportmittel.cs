@@ -58,7 +58,7 @@ namespace M05Lab_Fuhrpark
             AktuelleGeschwindigkeit = 0;
         }
 
-        public string BeschreibeMich()
+        public virtual string BeschreibeMich()
         {
             return $@"
 {Name}, ({Preis} Euro)

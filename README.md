@@ -81,13 +81,14 @@ commit
 
 ## M060 | INHERITENCE / VERERBUNG
 
-- [ ] base
-- [ ] virtual & override methods
-- [ ] abstract methods
-- [ ] [MyRandom](/M3Zahlenratespiel/MyRandomT.cs) <!-- *todo -->
-- [ ] [Ü Flugzeug](/M5Fuhrpark/Flugzeug.cs)
-- [ ] [Ü PKW](/M5Fuhrpark/PKW.cs)
-- [ ] [Ü Schiff](/M5Fuhrpark/Schiff.cs)
+- [x] base
+- [x] virtual & override methods
+- [x] abstract methods
+- [x] [Ü Flugzeug](M05Lab-Fuhrpark/Flugzeug.cs)
+- [x] [Ü PKW](M05Lab-Fuhrpark/PKW.cs)
+- [x] [Ü Schiff](M05Lab-Fuhrpark/Schiff.cs)
+
+commit
 
 ## M070 | INTERFACES & POLYMORPHISM
 
