@@ -12,7 +12,7 @@ namespace M05Lab_Fuhrpark
         public int RäderAnzahl { get; set; }
         public int GefahreneKm { get; set; }
         public List<Transportmittel> AktLadung { get; set; }
-        public Transportmittel MaxLadung { get; set; }
+        public int MaxLadung { get; set; }
 
         public PKW(string name, double preis, int maximalGeschwindigkeit, int anzahlTüren, int räderAnzahl, int gefahreneKm) : base(name, preis, maximalGeschwindigkeit)
         {

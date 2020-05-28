@@ -10,9 +10,9 @@ namespace M05Lab_Fuhrpark
     {
         public int MaxFlugHöhe { get; set; }
         public int RäderAnzahl { get; set; }
-        public int GefahreneKm { get; set; }
-        public Transportmittel AktLadung { get; set; }
-        public Transportmittel MaxLadung { get; set; }
+        public int GefahreneKm { get; set; }               
+        public List<Transportmittel> AktLadung { get; set; }
+        public int MaxLadung { get; set; }
 
         public Flugzeug(string name, double preis, int maximalGeschwindigkeit, int maximalFlugHöhe, int räderAnzahl, int gefahreneKm) : base(name, preis, maximalGeschwindigkeit)
         {
@@ -33,7 +33,7 @@ namespace M05Lab_Fuhrpark
 
         public bool Belade(Transportmittel transport)
         {
-            AktLadung = transport;
+            AktLadung.Add(transport);
             return true;
         }
 

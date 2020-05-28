@@ -147,18 +147,22 @@ Klasse Stopwatch?
 - [ ] [standard exception](https://docs.microsoft.com/de-de/dotnet/standard/design-guidelines/using-standard-exception-types)
 - [ ] [Demo-Exception](/M8GenericDataStructures/MyList.cs)
 
-## M012 | Unit-Tests
+## M012 | File Access Dateizugriff​
+
+- [x] SaveFileDialog & OpenFileDialog
+- [x] StreamReader & StreamWriter
+- [x] JSON, serialize & deserialize 
+- [x] [M12 File Access & JSON](M12Demo-FileAccess/Program.cs)
+- [x] [Ü Schreibe & Lese generisch und mit Open/SaveFileDialog]()
+
+commit 
+
+Ü Anmeldeformular? / Gästeliste?
+
+## M013 | Unit-Tests
 
 - [ ] TestPackages & TestProject
 - [ ] TestClasses, TestMethods, TestAnnotations
 - [ ] Assert-Klasse
 - [ ] [Demo-UnitTest1](/Demo-UnitTests/UnitTest1.cs)
 
-## M013 | File Access Dateizugriff​
-
-- [ ] SaveFileDialog & OpenFileDialog
-- [ ] StreamReader & StreamWriter
-- [ ] JSON, serialize & deserialize 
-- [ ] [M13 File Access & JSON](/M13FileAccessNJson/M13FileAccApp.cs)
-
-Ü Anmeldeformular? / Gästeliste?
