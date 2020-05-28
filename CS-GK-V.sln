@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M08GenericDataStructures", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M09Demo-WinForms", "M09Demo-WinForms\M09Demo-WinForms.csproj", "{6EE5D30E-C036-4427-A3F0-95E3E1C84BA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M10Demo-Delegates", "M10Demo-Delegates\M10Demo-Delegates.csproj", "{47C60D0C-47D7-4EDD-B49A-4F629948A69D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6EE5D30E-C036-4427-A3F0-95E3E1C84BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EE5D30E-C036-4427-A3F0-95E3E1C84BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EE5D30E-C036-4427-A3F0-95E3E1C84BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C60D0C-47D7-4EDD-B49A-4F629948A69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C60D0C-47D7-4EDD-B49A-4F629948A69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C60D0C-47D7-4EDD-B49A-4F629948A69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C60D0C-47D7-4EDD-B49A-4F629948A69D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

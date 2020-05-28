@@ -116,17 +116,19 @@ commit
 - [x] partial classes
 - [x] widgets / components
 - [x] component props
-- [x] [TicTacToe](/M9WinFormsTicTacToe/Program.cs)
+- [x] [TicTacToe](M09Demo-WinForms/Program.cs)
 
 commit      
 
 ## M010 | DELEGATES & EVENTS
 
-- [ ] custom delegates
-- [ ] built-in delegates
-- [ ] anonumous functions
-- [ ] event handler
-- [ ] [M10 Delegates](/M10Delegates/Program.cs)
+- [x] custom delegates
+- [x] built-in delegates
+- [x] anonumous functions
+- [x] event handler
+- [x] [M10 Delegates](M10Demo-Delegates/Program.cs)
+
+commit 
 
 Ü Kollidierende Buttons
 
