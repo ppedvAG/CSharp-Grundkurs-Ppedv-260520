@@ -16,12 +16,13 @@ namespace M05Lab_Fuhrpark
             Muskelkraft
         }
         public SchiffsTreibstoff Treibstoff { get; set; }
-        public Transportmittel AktLadung { get; set; }
-        public Transportmittel MaxLadung { get; set; }
+        public List<Transportmittel> AktLadung { get; set; }
+        public int MaxLadung { get; set; }
 
         public Schiff(string name, double preis, int maximalGeschwindigkeit, SchiffsTreibstoff treibstoff) : base(name, preis, maximalGeschwindigkeit)
         {
             Treibstoff = treibstoff;
+            AktLadung = new List<Transportmittel>();
         }
 
         public override string BeschreibeMich()
@@ -34,13 +35,13 @@ MaxLadung: {MaxLadung}";
 
         public bool Belade(Transportmittel transport)
         {
-            AktLadung = transport;
+            AktLadung.Add(transport);
             return true;
         }
 
         public bool Entlade()
         {
-            AktLadung = null;
+            AktLadung.Clear();
             return false;
         }
     }

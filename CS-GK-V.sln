@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M05Lab-Fuhrpark", "M05Lab-F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M05Lab-FuhrparkKonsument", "M05Lab-FuhrparkKonsument\M05Lab-FuhrparkKonsument.csproj", "{249D87C9-F1CD-4DE1-9FC9-C2B55E3F072C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M08GenericDataStructures", "M08GenericDataStructures\M08GenericDataStructures.csproj", "{6187AD03-8278-4E6E-81F5-6A58C7F3923D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M09Demo-WinForms", "M09Demo-WinForms\M09Demo-WinForms.csproj", "{6EE5D30E-C036-4427-A3F0-95E3E1C84BA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{249D87C9-F1CD-4DE1-9FC9-C2B55E3F072C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{249D87C9-F1CD-4DE1-9FC9-C2B55E3F072C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{249D87C9-F1CD-4DE1-9FC9-C2B55E3F072C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6187AD03-8278-4E6E-81F5-6A58C7F3923D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6187AD03-8278-4E6E-81F5-6A58C7F3923D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6187AD03-8278-4E6E-81F5-6A58C7F3923D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6187AD03-8278-4E6E-81F5-6A58C7F3923D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE5D30E-C036-4427-A3F0-95E3E1C84BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE5D30E-C036-4427-A3F0-95E3E1C84BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE5D30E-C036-4427-A3F0-95E3E1C84BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE5D30E-C036-4427-A3F0-95E3E1C84BA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

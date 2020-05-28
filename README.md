@@ -101,20 +101,24 @@ commit
 
 ## M080 | GENERIC DATA STRUCTURES
 
-- [ ] [List`<T>`](/M8GenericDataStructures/MyList.cs)
-- [ ] [Stack`<T>`](/M8GenericDataStructures/MyStack.cs)
-- [ ] [Queue`<T>`](/M8GenericDataStructures/MyQueue.cs)
+- [x] [List`<T>`](/M8GenericDataStructures/MyList.cs)
+- [x] [Stack`<T>`](/M8GenericDataStructures/MyStack.cs)
+- [x] [Queue`<T>`](/M8GenericDataStructures/MyQueue.cs)
 - [ ] [KeyValuePair`<T1, T2>`](/M8GenericDataStructures/MyKeyValuePair.cs)
-- [ ] [Dictionary`<T1, T2>`](/M8GenericDataStructures/MyDictionary.cs)
+- [x] [Dictionary`<T1, T2>`](/M8GenericDataStructures/MyDictionary.cs)
 - [ ] Hachtable
 - [ ] [Ü Passagierliste](/M5Fuhrpark/FuhrparkApp.cs)
+- [x] Warteschlange
+- [x] Ü Lab 8 
 
 ## M090 | WINDOWS FORMS
 
-- [ ] partial classes
-- [ ] widgets / components
-- [ ] component props
-- [ ] [TicTacToe](/M9WinFormsTicTacToe/Program.cs)
+- [x] partial classes
+- [x] widgets / components
+- [x] component props
+- [x] [TicTacToe](/M9WinFormsTicTacToe/Program.cs)
+
+commit      
 
 ## M010 | DELEGATES & EVENTS
 

@@ -8,8 +8,8 @@ namespace M05Lab_Fuhrpark
 {
     public interface IKannAndereTransportieren
     {
-        Transportmittel AktLadung { get; set; }
-        Transportmittel MaxLadung { get; set; }
+        List<Transportmittel> AktLadung { get; set; }
+        int MaxLadung { get; set; }
         bool Belade(Transportmittel transport);
         bool Entlade();
     }
