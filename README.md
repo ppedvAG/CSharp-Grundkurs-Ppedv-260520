@@ -140,12 +140,13 @@ Klasse Stopwatch?
 
 ## M011 | Exception-Handling​
 
-- [ ] Exception & throw
-- [ ] try catch finally
-- [ ] Exception types
-- [ ] Custom Exceptions
+- [x] Exception & throw
+- [x] try catch finally
+- [x] Exception types
+- [x] Custom Exceptions
 - [ ] [standard exception](https://docs.microsoft.com/de-de/dotnet/standard/design-guidelines/using-standard-exception-types)
-- [ ] [Demo-Exception](/M8GenericDataStructures/MyList.cs)
+- [x] [Demo-Exception](M08GenericDataStructures/MyList.cs)
+- [x] [customized exception](M08GenericDataStructures/ItemDoesNotExist.cs)
 
 ## M012 | File Access Dateizugriff​
 
@@ -167,6 +168,17 @@ commit
 - [x] [Demo ](M13Demo-EntityFramework/EFDbContext.cs)
 
 commit      
+
+## M014 | TAP (async/await)
+
+- [x] Task
+- [x] async/await
+- [x] Threads
+- [x] [Demo Task](M14Demo-AsyncAwait/MyTask.cs)
+- [x] [Demo async await](M14Demo-AsyncAwait/Program.cs)
+- [ ] siehe Fuhrpark, zufälliges Erzeugen
+
+commit
 
 ## M0?? | Unit-Tests
 

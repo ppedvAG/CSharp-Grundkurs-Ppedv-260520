@@ -52,7 +52,7 @@ namespace M05Lab_FuhrparkKonsument
 
             Random random = new Random();
 
-            //FahrzeugSchlange mit 10 zufällig erzeugten Fahrzeugtypen befüllen
+            //FahrzeugSchlange und Stack mit 10 zufällig erzeugten Fahrzeugtypen befüllen
             for (int i = 0; i < 10; i++)
             {
                 Transportmittel neuesFahrzeug = null;
