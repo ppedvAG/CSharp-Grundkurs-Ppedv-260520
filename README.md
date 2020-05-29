@@ -40,8 +40,12 @@ commit
 - [x] [enum](M02Demo-enum/Denum.cs)
 - [x] [Lab MiniRechner](M02Lab-MiniRechner/MiniRechner.cs)
 
-commit
+commit 
 
+- [x] HasFlag
+
+commit
+      
 ## M030 | ARRAYS & CONTROLS
 
 - [x] [Arrays](M03ArrayNControls/MyArray.cs)
@@ -182,14 +186,16 @@ commit
 
 commit
  
-## M0?? | Unit-Tests
+## M016 | Unit-Tests
 
-- [ ] TestPackages & TestProject
-- [ ] TestClasses, TestMethods, TestAnnotations
-- [ ] Assert-Klasse
-- [ ] [Demo-UnitTest1](/Demo-UnitTests/UnitTest1.cs)
+- [x] TestPackages & TestProject
+- [x] TestClasses, TestMethods, TestAnnotations
+- [x] Assert-Klasse
+- [x] [Demo-UnitTest](M16Demo-UnitTests/UnitTest1.cs)
 
+commit
 
+Linq
 
 Windows Form & Fuhrpark
 
