@@ -26,7 +26,7 @@ commit
 
 sln props > startup projects > current
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/a60073d861df577cfc4e030c130a942081a89d49)
 
 ## M020 | DATA TYPES, OPERATORS
 
@@ -40,11 +40,11 @@ commit
 - [x] [enum](M02Demo-enum/Denum.cs)
 - [x] [Lab MiniRechner](M02Lab-MiniRechner/MiniRechner.cs)
 
-commit 
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/957ff3071f8d2127354d4cff845667d22226fad7)
 
 - [x] HasFlag
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/1545bafeba5dd8da277ec5c05babb02be05eb95f)
       
 ## M030 | ARRAYS & CONTROLS
 
@@ -55,7 +55,7 @@ commit
 - [x] [Klasse Random](M03ArrayNControls/MyRandom.cs)
 - [x] [Lab Zahlenratespiel](M03Lab-Zahlenratespiel/Zahlenraten.cs)
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/30686a1e3b4f08abda4de9186ddb69e1375655be)
 
 ## M040 | METHODS
 
@@ -67,7 +67,7 @@ commit
 - [x] out & ref parameters & args
 - [x] [Demo Methods](M04Demo-Methods/DMethods.cs)
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/66af612a97eee24e38abade38bd136d129d77898)
 
 ## M050 | CLASSES & OOP
 
@@ -81,7 +81,7 @@ commit
 - [x] [Ü Transport](/M5Fuhrpark/Transport.cs)
 - [x] [Ü TransportConsumer](/M5Fuhrpark/FuhrparkApp.cs)
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/480aa81214f31240bcd73b1a3b278b16faeadc11)
 
 ## M060 | INHERITENCE / VERERBUNG
 
@@ -92,7 +92,7 @@ commit
 - [x] [Ü PKW](M05Lab-Fuhrpark/PKW.cs)
 - [x] [Ü Schiff](M05Lab-Fuhrpark/Schiff.cs)
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/46ca5a417197812f05543e96822a9bbace283bb7)
 
 ## M070 | INTERFACES & POLYMORPHISM
 
@@ -101,7 +101,7 @@ commit
 - [x] [Ü IKannAndereTransportieren](M05Lab-Fuhrpark/IKannAndereTransportieren.cs)
 - [x] [Ü IKannRollen](M05Lab-Fuhrpark/IRollbar.cs)
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/74d675b9373ad5ebfec87e9d201015a9cd4a3e9f)
 
 ## M080 | GENERIC DATA STRUCTURES
 
@@ -122,7 +122,7 @@ commit
 - [x] component props
 - [x] [TicTacToe](M09Demo-WinForms/Program.cs)
 
-commit      
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/d62fb038fec2f717df49f3fbaedd99def6952610)
 
 ## M010 | DELEGATES & EVENTS
 
@@ -132,7 +132,7 @@ commit
 - [x] event handler
 - [x] [M10 Delegates](M10Demo-Delegates/Program.cs)
 
-commit 
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/b724d553f27d191b06a52c6b0d4568d82b5416f9)
 
 Ü Einfacher Taschenrechner?
 
@@ -154,7 +154,7 @@ commit
 - [x] [M12 File Access & JSON](M12Demo-FileAccess/Program.cs)
 - [x] [Ü Schreibe & Lese generisch und mit Open/SaveFileDialog]()
 
-commit 
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/c99d8985e4caae047dea92fcb479283a2e27db6f)
 
 Ü Anmeldeformular? / Gästeliste?
 
@@ -165,7 +165,7 @@ commit
 - [x] DBSet & Entities
 - [x] [Demo ](M13Demo-EntityFramework/EFDbContext.cs)
 
-commit      
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/d01b26e388b9bc2ef2ae52537923ab750057a306)
 
 ## M014 | TAP (async/await)
 
@@ -176,7 +176,7 @@ commit
 - [x] [Demo async await](M14Demo-AsyncAwait/Program.cs)
 - [ ] siehe Fuhrpark, zufälliges Erzeugen
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/a7159fca6ad2103356eac70f2f5f94803611e808)
 
 ## M015 | Timing Klassen
 
@@ -184,7 +184,7 @@ commit
 - [x] [Klasse Stopwatch](M15Demo-Timing/Form1.cs#Stopwatch)
 - [x] [Ü kollidierende Buttons mit Timing]
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/122a89a4fdf05232ae218d5529094314dd911b4a)
  
 ## M016 | Unit-Tests
 
@@ -193,9 +193,14 @@ commit
 - [x] Assert-Klasse
 - [x] [Demo-UnitTest](M16Demo-UnitTests/UnitTest1.cs)
 
-commit
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/bf72bd74bf492f27b87324158d914f254372b57b)
 
-Linq
+## M017 | HttpClient & Linq
+
+- [ ] [HttpClient](M17Demo-HttpClient/Form1.cs)
+- [ ] [LINQ Befehle](M17Demo-HttpClient/Form1.cs)
+
+commit      
 
 Windows Form & Fuhrpark
 
