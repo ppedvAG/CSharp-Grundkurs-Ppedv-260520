@@ -130,8 +130,6 @@ commit
 
 commit 
 
-Ü Kollidierende Buttons
-
 Ü Einfacher Taschenrechner?
 
 ## M011 | Exception-Handling​
@@ -178,9 +176,9 @@ commit
 
 ## M015 | Timing Klassen
 
-- [ ] [Klasse Timing](M15Demo-Timing/Form1.cs#Timer)
-- [ ] [Klasse Stopwatch](M15Demo-Timing/Form1.cs#Stopwatch)
-- [ ] [Ü kollidierende Buttons mit Timing]
+- [x] [Klasse Timing](M15Demo-Timing/Form1.cs#Timer)
+- [x] [Klasse Stopwatch](M15Demo-Timing/Form1.cs#Stopwatch)
+- [x] [Ü kollidierende Buttons mit Timing]
 
 commit
  
