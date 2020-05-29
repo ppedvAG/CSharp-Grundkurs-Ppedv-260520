@@ -134,10 +134,6 @@ commit
 
 Ü Einfacher Taschenrechner?
 
-Klasse Timing?
-
-Klasse Stopwatch?
-
 ## M011 | Exception-Handling​
 
 - [x] Exception & throw
@@ -180,6 +176,14 @@ commit
 
 commit
 
+## M015 | Timing Klassen
+
+- [ ] [Klasse Timing](M15Demo-Timing/Form1.cs#Timer)
+- [ ] [Klasse Stopwatch](M15Demo-Timing/Form1.cs#Stopwatch)
+- [ ] [Ü kollidierende Buttons mit Timing]
+
+commit
+ 
 ## M0?? | Unit-Tests
 
 - [ ] TestPackages & TestProject

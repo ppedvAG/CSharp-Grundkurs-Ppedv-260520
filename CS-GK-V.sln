@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M13Demo-EntityFramework", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M14Demo-AsyncAwait", "M14Demo-AsyncAwait\M14Demo-AsyncAwait.csproj", "{9D94FD8E-9A71-4F0C-AA2E-50ADA71582F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M15Demo-Timing", "M15Demo-Timing\M15Demo-Timing.csproj", "{78794569-4591-4935-823C-70A2AB67D9FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{9D94FD8E-9A71-4F0C-AA2E-50ADA71582F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D94FD8E-9A71-4F0C-AA2E-50ADA71582F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D94FD8E-9A71-4F0C-AA2E-50ADA71582F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78794569-4591-4935-823C-70A2AB67D9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78794569-4591-4935-823C-70A2AB67D9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78794569-4591-4935-823C-70A2AB67D9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78794569-4591-4935-823C-70A2AB67D9FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
