@@ -200,7 +200,10 @@ sln props > startup projects > current
 - [ ] [HttpClient](M17Demo-HttpClient/Form1.cs)
 - [ ] [LINQ Befehle](M17Demo-HttpClient/Form1.cs)
 
-commit      
+[commit](https://github.com/ppedvAG/csharp-grundkurs-ppedv-260520/commit/8d761b9dc8b8eb8cd97c0bad580b11f307107d43)
 
-Windows Form & Fuhrpark
+## M018 | Debugging & Publishing
+
+commit
+
 
