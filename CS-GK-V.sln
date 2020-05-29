@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M10Demo-Delegates", "M10Dem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M12Demo-FileAccess", "M12Demo-FileAccess\M12Demo-FileAccess.csproj", "{1C19D8F9-32CD-4381-A131-1177C0821C8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M13Demo-EntityFramework", "M13Demo-EntityFramework\M13Demo-EntityFramework.csproj", "{814E8364-92BC-4C1B-B676-EFAFF301C32A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{1C19D8F9-32CD-4381-A131-1177C0821C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C19D8F9-32CD-4381-A131-1177C0821C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C19D8F9-32CD-4381-A131-1177C0821C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814E8364-92BC-4C1B-B676-EFAFF301C32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814E8364-92BC-4C1B-B676-EFAFF301C32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814E8364-92BC-4C1B-B676-EFAFF301C32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814E8364-92BC-4C1B-B676-EFAFF301C32A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
